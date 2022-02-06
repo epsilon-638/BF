@@ -24,4 +24,4 @@ Hello, World!
 - `.` : Display char at current cell
 - `,` : Input a char at current cell
 
-#### This proj is a section of the book Beautiful Racket which introduces the paradaigm of laguage-oriented programming by Mattew Butterick found [''here'](https://beautifulracket.com/).  
+#### This proj is a section of the book Beautiful Racket which introduces the paradaigm of laguage-oriented programming by Mattew Butterick found [here](https://beautifulracket.com/).  
